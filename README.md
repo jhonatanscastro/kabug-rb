@@ -16,7 +16,7 @@ gem install bundler
 bundle install
 `
 
-### Executar no modo CI gerando reportd em JSON
+### Executar no modo CI gerando report em JSON
 
 `
 bundle exec cucumber -p ci
